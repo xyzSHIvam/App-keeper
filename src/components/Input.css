@@ -1,0 +1,30 @@
+.input{
+    margin-top:30px;
+    width:100%;
+
+}
+
+.input form{
+    display: flex;
+    gap:50px;
+}
+
+form input{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    height:50px;
+}
+#content{
+  height: 70px;
+}
+button{
+    width:5%;
+    height:5vh;
+    border:none;
+    background-color: rgb(236, 206, 8);
+    color:white;
+    border-radius: 10px;
+    font-size:2rem;
+}
